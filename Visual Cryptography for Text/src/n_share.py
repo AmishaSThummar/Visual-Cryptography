@@ -11,7 +11,6 @@ def squareAndMultiply(n, a, b):
         a = (a*a) % n
     return res
 
-
 def extendedEuclidean(n, a):
     r1 = n
     r2 = a
