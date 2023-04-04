@@ -1,0 +1,2 @@
+1. For long text it requires big image
+2. Same color image wan't work for decryption

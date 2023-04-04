@@ -1,0 +1,9 @@
+pip install scikit-image
+pip install numpy
+pip install pycryptodome
+pip install opencv-python
+pip install pillow
+pip install extra_streamlit_components
+pip install streamlit
+pip3 install localStoragePy
+python3 -m pip install SSIM-PIL
